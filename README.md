@@ -32,3 +32,9 @@ A lightweight and intuitive Streamlit application that uses **LLMs and image inp
 
    ```bash
    pip install -r requirements.txt
+
+2. **Run app**  
+   Launch the streamlit application:
+
+   ```bash
+   streamlit run streamlit-app.py
